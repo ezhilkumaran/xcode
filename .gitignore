@@ -1,0 +1,9 @@
+build/
+*.pbxuser
+!default.pbxuser
+xcuserdata
+*.xccheckout
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
